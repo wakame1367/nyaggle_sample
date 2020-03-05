@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 nyaggle = "*"
+jupyter = "*"
+mlflow = "*"
 
 [dev-packages]
 
