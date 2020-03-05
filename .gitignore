@@ -4,6 +4,10 @@
 ### own directories
 *.csv
 
+### mlflow
+mlruns
+output
+
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
